@@ -16,11 +16,10 @@ Well organized, motivated, adaptable, and responsible full-stack developer with 
 ### Angular
 ### React
 ### Git
-SQL
+### SQL
 ### MySQL
 ### MongoDB
-### Azure storage (tables,
-blobs, queues)
+### Azure storage (tables, blobs, queues)
 ### CSS
 ### SASS
 ### Docker
@@ -28,33 +27,38 @@ blobs, queues)
 ### OOP
 ### REST
 ### Entity Framework
-MVC
-### CMS
-### Umbraco
+### MVC
+### Umbraco CMS
 ### Agile
-### Continuous
-Integration CI/CD
-### Microsoft Azure
-Portal
+### Continuous Integration CI/CD
+### Microsoft Azure Portal
 ### Unit Testing
 ### Identity Server
 ### Microsoft Identity
 ### SignalR (core)
-Visual Studio
-### Visual Studio Code
-### Word & Excel
 ### Jira
-### Azure DevOps
-(VSTS)
+### Azure DevOps (VSTS)
 ### XML
 ### JSON
 ### JWT
 ### YML
-### Daw.IO
-### OAuth, OpenID
-Connect
+### OAuth, OpenIDConnect
 ### Design Patterns
+
 ## Tools
+Tools that I usually use as developer.
+### SQL Server Management Studio
+[SQL Server Management Studio (SSMS)](https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms)
+### Diagrams.net formerly Daw.IO
+[Flowchart Maker & Online Diagram Software](https://app.diagrams.net)
+### Visual Studio
+### Visual Studio Code
+### Word & Excel
+### Papercut
+[Papercut](https://github.com/ChangemakerStudios/Papercut-SMTP)
+### ScreenToGif
+[ScreenToGif](https://www.screentogif.com/)
+### 
 
 ## Interests
 ### Spending time with family

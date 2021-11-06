@@ -1,6 +1,19 @@
 ## About me
 Well organized, motivated, adaptable, and responsible full-stack developer with over four-year experience implementing software solutions across web and desktop environments. Good team player, hard working and passionate programmer always striving to achieve high standard. Constantly seeking to progress my interpersonal and software development skills and knowledge.
 
+## Projects at 3CSharedServices 
+### Umbraco websites
+### MVC projects
+### PowerShell solutions
+### Continuous Integration CI/CD
+[Azure DevOps](https://azure.microsoft.com/en-us/services/devops/#overview)
+[Azure Pipelines](https://azure.microsoft.com/en-us/services/devops/pipelines/)
+### IEG4 - YottaAlloy integration
+[IEG4](https://www.ieg4.com/)
+[IEG4 eDesigner](https://www.ieg4.com/edesigner)
+[IEG4 OneVu](https://www.ieg4.com/onevu)
+[YottaAlloy](https://weareyotta.com/software/alloy/)
+
 ## Skills
 ### C#
 ### .NET Framework
@@ -31,13 +44,19 @@ Well organized, motivated, adaptable, and responsible full-stack developer with 
 ### Umbraco CMS
 ### Agile
 ### Continuous Integration CI/CD
+[Azure DevOps](https://azure.microsoft.com/en-us/services/devops/#overview)
+[Azure Pipelines](https://azure.microsoft.com/en-us/services/devops/pipelines/)
 ### Microsoft Azure Portal
+[Azure Portal](https://azure.microsoft.com/en-us/features/azure-portal/)
 ### Unit Testing
 ### Identity Server
 ### Microsoft Identity
 ### SignalR (core)
 ### Jira
 ### Azure DevOps (VSTS)
+[Azure DevOps](https://azure.microsoft.com/en-us/services/devops/#overview)
+[Azure Boards](https://azure.microsoft.com/en-us/services/devops/boards/)
+
 ### XML
 ### JSON
 ### JWT
@@ -58,7 +77,8 @@ Tools that I usually use as developer.
 [Papercut](https://github.com/ChangemakerStudios/Papercut-SMTP)
 ### ScreenToGif
 [ScreenToGif](https://www.screentogif.com/)
-### 
+### Azure Storage Explorer
+[Azure Storage Explorer](https://azure.microsoft.com/en-us/features/storage-explorer/)
 
 ## Interests
 ### Spending time with family

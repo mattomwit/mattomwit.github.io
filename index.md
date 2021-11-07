@@ -1,5 +1,5 @@
 ## About me
-Well organized, motivated, adaptable, and responsible full-stack developer with over four-year experience implementing software solutions across web and desktop environments. Good team player, hard working and passionate programmer always striving to achieve high standard. Constantly seeking to progress my interpersonal and software development skills and knowledge.
+Well-organized, motivated, adaptable, and responsible full-stack developer with over four-year experience implementing software solutions across web and desktop environments. Good team player, hardworking and passionate programmer always striving to achieve high standards. Constantly seeking to progress my interpersonal and software development skills and knowledge.
 
 ## Projects at [3CSharedServices](https://www.3csharedservices.org/) 
 

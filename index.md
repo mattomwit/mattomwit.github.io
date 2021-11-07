@@ -4,8 +4,18 @@ Well-organized, motivated, adaptable, and responsible full-stack developer with 
 ## Projects at [3CSharedServices](https://www.3csharedservices.org/) 
 
 ### Umbraco websites
+[South Cambridgeshire Distric Council](https://www.scambs.gov.uk/)
+[Huntingdonshire District Council](https://www.huntingdonshire.gov.uk/)
+[Cambridge City Council](https://www.cambridge.gov.uk/)
+
 ### MVC projects
+Most MVC projects handled at work were created by other people. My responsibilities were mostly bugfixing or updating the existing projects.
+- Bin Calendar projects - used to display the refuse collections for three council districs areas.
+- Shopmobility  more about it here: https://www.huntingdonfirst.co.uk/business/hunts-shopmobility and https://www.huntingdonshire.gov.uk/people-communities/shopmobility-scheme/ 
 ### PowerShell solutions
+- In house scripts that allow for faster set up of existing projects. Used in conjunction with the [Azure CLI](https://docs.microsoft.com/en-us/cli/azure/) or [Az Copy](https://docs.microsoft.com/en-us/azure/storage/common/storage-ref-azcopy-copy) for easy blob storage access.
+- In house scripts that call external trusted APIs in order to save data locally.
+- In house scripts that run inside a dedicated server as a task and update the SSL certificates of the websites using [Let's Encrypt](https://letsencrypt.org/) portal for certificate generation.
 ### Continuous Integration CI/CD
 [Azure DevOps](https://azure.microsoft.com/en-us/services/devops/#overview)
 [Azure Pipelines](https://azure.microsoft.com/en-us/services/devops/pipelines/)
@@ -17,9 +27,11 @@ Well-organized, motivated, adaptable, and responsible full-stack developer with 
 
 ## Skills
 ### C#
-### .NET Framework
-### .NET Core
+Csharp is my go to language of choice when it comes to programming. It was not the first language that I've learned but it is the one I like the most and feel most confidend in using when creating new projects.
+I use it at work and in my personal projects.
+I've worked on projects written in .NET framework and in .NET Core.
 ### Linq
+Linq is the most common tool used when working with data in .NET. I use it frequently and feel confident in using it. 
 ### Azure Functions
 ### Application Insights
 ### PowerShell
@@ -27,9 +39,25 @@ Well-organized, motivated, adaptable, and responsible full-stack developer with 
 ### TypeScript
 ### jQuery
 ### AngularJS
+Basic knowledge used to extend umbraco backoffice components (editor tools).
 ### Angular
-### React
-### Git
+Basic knowledge used in my spare time to investigate the framework.
+### [React](https://reactjs.org/)
+I've spent quite a bit of time learning and testing [React](https://reactjs.org/). I created a few projects to learn and understand how it works. I've learned how to use it with TypeScript. 
+
+The first project that introduced me to React was called [String-Manipulator](https://mattomwit.github.io/string-manipulator/). I use it ever since. It allows to store multiple string manipulation actions and save them in a reusable list. In case I need to repeat the process later on. I use it usually when creating git branches by using commands like `To Lowercase`, `Replace " " with -` and `prepend /feature`.
+
+After that I played around with Next.js to generate static page application. I also tried to see how to use the Material UI. 
+
+At work:
+- Created a proof of concept [DevOps extension](https://docs.microsoft.com/en-us/azure/devops/marketplace/overview) by adding a new section to DevOps portal. 
+- Used an SDK provided by microsoft ([azure-devops-extension-sdk](https://github.com/microsoft/azure-devops-extension-sdk)) in order to authenticate users before they could view the content of the extension.
+- Used [azure-devops-ui](https://developer.microsoft.com/pl-pl/azure-devops/) to keep the style of the extension consistant with the existing portal UI design.
+### [Git](https://git-scm.com/)
+Used extensively at work.
+- [merge](https://git-scm.com/docs/git-merge) - This is probably the most common use for every developer. I frequently had to merge my changes with branches from other developers. These sometimes cause conflicts which have to be resolved. 
+- [blame](https://git-scm.com/docs/git-blame) - Frequently used when fixing issues. I use it to figure out when the changes were made and what did the code look like before.  
+- [bisect](https://git-scm.com/docs/git-bisect) - This is my favorite git command by far. It allows the user to find which commit introduced a bug. This can be really useful when trying to remove an issue or check what is causing it.
 ### SQL
 ### MySQL
 ### MongoDB
@@ -72,12 +100,14 @@ Tools that I usually use as developer.
 ### Diagrams.net formerly Daw.IO
 [Flowchart Maker & Online Diagram Software](https://app.diagrams.net)
 ### Visual Studio
+This is my favorite IDE. It can do a lot of things and when utilized well replaces many external tools. 
+Some features I like to use are `Git`, `Cloud Explorer`, `Server Explorer` and [Application Insights Search](https://docs.microsoft.com/en-us/azure/azure-monitor/app/diagnostic-search)
 ### Visual Studio Code
 ### Word & Excel
-### Papercut
-[Papercut](https://github.com/ChangemakerStudios/Papercut-SMTP)
-### ScreenToGif
-[ScreenToGif](https://www.screentogif.com/)
+### [Papercut](https://github.com/ChangemakerStudios/Papercut-SMTP)
+Very useful tool for testing SMTP clients while testing locally.
+### [ScreenToGif](https://www.screentogif.com/)
+Very useful tool especially when creating documentation or user guides for the end user. If as they say "A picture is worth a thousand words", how many words is a gif worth I wonder? 
 ### Azure Storage Explorer
 [Azure Storage Explorer](https://azure.microsoft.com/en-us/features/storage-explorer/)
 
